@@ -1,6 +1,6 @@
 Chatbot changes the world!😄
 
-I am interested in conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot). I am especially interested in open-domain chatbot based on language generation models.
+I am interested in conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot), especially interested in open-domain chatbot based on language generation models such like GPT-2.
 
 ### 🤖 What I created
 
