@@ -1,15 +1,15 @@
-### 🤖 つくったもの
+### 🤖 What I created
 
-- [GPTChat](https://github.com/noriyukipy/gptchat) - GPT-2言語モデル、会話モデルの学習・生成 CLI
-- [msgFlow](https://github.com/noriyukipy/msgflow) - Python製のシンプルなチャットボットフレームワーク。YAMLベースでの設定や拡張性、各種サービスと簡単に連携がとれます。[ドキュメント](https://noriyukipy.github.io/msgflow/)もあります。
+- [GPTChat](https://github.com/noriyukipy/gptchat) - Training/generation CLI with GPT-2 based language and conversational model
+- [msgFlow](https://github.com/noriyukipy/msgflow) - Simple chatbot framework in Python. Easy to configure with YAML and connect to several services. Document is available here -> https://noriyukipy.github.io/msgflow/)
 
-### 📚 外部記事
+### 📚 Article
 
 - [【連載】対話システムをつくろう! Python超入門](https://news.mynavi.jp/itsearch/series/devsoft/Python.html) @マイナビニュース IT Search+
 
-### 🔖 リンク
+### 🔖 Link
 
-- [Blog](blog.md)
+- [Blog (in Japanese)](blog.md)
 - [GitHub](https://github.com/noriyukipy)
 - [Twitter](https://twitter.com/noriyukipy)
 
