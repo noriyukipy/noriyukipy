@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats#top-languages-card to show GitHub Stas here -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noriyukipy)](https://github.com/anuraghazra/github-readme-stats)
 [![noriyukipy's github stats](https://github-readme-stats.vercel.app/api?username=noriyukipy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noriyukipy)](https://github.com/anuraghazra/github-readme-stats)
