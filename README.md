@@ -2,7 +2,7 @@ Chatbot changes the world!:wink:
 
 I am interested in conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot), especially open-domain chatbot based on language generation models such like GPT-2.
 
-### 🤖 What I created
+### :octocat: What I created
 
 - [GPTChat](https://github.com/noriyukipy/gptchat) - Training/generation CLI with GPT-2 based language and conversational model
 - [msgFlow](https://github.com/noriyukipy/msgflow) - Simple chatbot framework in Python. Easy to configure with YAML and connect to several services. Get started from the [document](https://noriyukipy.github.io/msgflow/)
