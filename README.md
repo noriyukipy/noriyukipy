@@ -9,7 +9,7 @@
 
 ### 🔖 Link
 
-- [Blog (in Japanese)](https://noriyukipy.github.com/blog)
+- [Blog (in Japanese)](https://noriyukipy.github.io/blog/)
 - [GitHub](https://github.com/noriyukipy)
 - [Twitter](https://twitter.com/noriyukipy)
 
