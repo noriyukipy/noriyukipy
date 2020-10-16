@@ -1,3 +1,5 @@
+I am interested in conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot). I am especially interested in open-domain chatbot based on language generation models.
+
 ### 🤖 What I created
 
 - [GPTChat](https://github.com/noriyukipy/gptchat) - Training/generation CLI with GPT-2 based language and conversational model
