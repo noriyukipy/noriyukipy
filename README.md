@@ -1,7 +1,7 @@
 ### 🤖 What I created
 
 - [GPTChat](https://github.com/noriyukipy/gptchat) - Training/generation CLI with GPT-2 based language and conversational model
-- [msgFlow](https://github.com/noriyukipy/msgflow) - Simple chatbot framework in Python. Easy to configure with YAML and connect to several services. Document is available here -> https://noriyukipy.github.io/msgflow/)
+- [msgFlow](https://github.com/noriyukipy/msgflow) - Simple chatbot framework in Python. Easy to configure with YAML and connect to several services. Document is available here -> https://noriyukipy.github.io/msgflow/
 
 ### 📚 Article
 
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Stats
 
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats#top-languages-card to show GitHub Stas here -->
 [![noriyukipy's github stats](https://github-readme-stats.vercel.app/api?username=noriyukipy)](https://github.com/anuraghazra/github-readme-stats)
