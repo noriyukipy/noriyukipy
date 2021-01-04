@@ -2,16 +2,16 @@ Chatbot changes the world!:wink:
 
 I am working in the field of conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot), especially insterested in open-domain chatbot based on language generation models such as GPT-2.
 
-### :octocat: Main Repository
+### :octocat: Main Repositories
 
 - [tfDlg](https://github.com/noriyukipy/tfdlg) - tfDlg is a Python library for transformer-based language models and dialog models with TensorFlow.
 - [msgFlow](https://github.com/colorfulscoop/msgflow) - msgFlow is a simple chatbot framework in Python. Easy to configure with YAML and connect to several services.
 
-### 📚 Article
+### 📚 Articles
 
 - [【連載】対話システムをつくろう! Python超入門](https://news.mynavi.jp/itsearch/series/devsoft/Python.html) @マイナビニュース IT Search+
 
-### 🔖 Link
+### 🔖 Links
 
 - [Blog (in Japanese)](https://noriyukipy.github.io/blog/)
 - [GitHub](https://github.com/noriyukipy)
