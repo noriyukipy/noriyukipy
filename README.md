@@ -4,8 +4,8 @@ I am interested in conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot)
 
 ### :octocat: Main Repository
 
-- [GPTChat](https://github.com/noriyukipy/gptchat) - Training/generation CLI with GPT-2 based language and conversational model
-- [msgFlow](https://github.com/noriyukipy/msgflow) - Simple chatbot framework in Python. Easy to configure with YAML and connect to several services. Get started from the [document](https://noriyukipy.github.io/msgflow/)
+- [tfDlg](https://github.com/noriyukipy/tfdlg) - tfDlg is a Python library for transformer-based language models and dialog models with TensorFlow.
+- [msgFlow](https://github.com/colorfulscoop/msgflow) - msgFlow is a simple chatbot framework in Python. Easy to configure with YAML and connect to several services. Get started from the [document](https://noriyukipy.github.io/msgflow/)
 
 ### 📚 Article
 
