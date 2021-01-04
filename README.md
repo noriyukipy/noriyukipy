@@ -5,7 +5,7 @@ I am working in the field of conversational AI💬 (e.g. open-domain chatbot, FA
 ### :octocat: Main Repository
 
 - [tfDlg](https://github.com/noriyukipy/tfdlg) - tfDlg is a Python library for transformer-based language models and dialog models with TensorFlow.
-- [msgFlow](https://github.com/colorfulscoop/msgflow) - msgFlow is a simple chatbot framework in Python. Easy to configure with YAML and connect to several services. Get started from the [document](https://noriyukipy.github.io/msgflow/)
+- [msgFlow](https://github.com/colorfulscoop/msgflow) - msgFlow is a simple chatbot framework in Python. Easy to configure with YAML and connect to several services.
 
 ### 📚 Article
 
