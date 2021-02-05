@@ -2,6 +2,8 @@ Chatbot changes the world!:wink:
 
 I am working in the field of conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot), especially insterested in open-domain chatbot based on language generation models such as GPT-2.
 
+I am a member of Colorful Scoop to develop wonderful chatbots. You can find it here https://colorfulscoop.com/ .
+
 ### :octocat: Main Repositories
 
 - [tfDlg](https://github.com/noriyukipy/tfdlg) - tfDlg is a Python library for transformer-based language models and dialog models with TensorFlow.
