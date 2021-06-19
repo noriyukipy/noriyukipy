@@ -1,13 +1,14 @@
 Chatbot changes the world!:wink:
 
-I am working in the field of conversational AI💬 (e.g. open-domain chatbot, FAQ chatbot), especially insterested in open-domain chatbot based on language generation models such as GPT-2.
+I am working on conversational AI 💬 such as open-domain and FAQ chatbot with the latest deep neural networks (e.g. GPT2, BERT, Sentence-BERT)
 
-I am a member of Colorful Scoop to develop wonderful chatbots. You can find it here https://colorfulscoop.com/ .
+I am a member of [Colorful Scoop](https://colorfulscoop.com) to develop open domain chatbots.
 
 ### :octocat: Main Repositories
 
-- [tfDlg](https://github.com/noriyukipy/tfdlg) - tfDlg is a Python library for transformer-based language models and dialog models with TensorFlow.
 - [msgFlow](https://github.com/colorfulscoop/msgflow) - msgFlow is a simple chatbot framework in Python. Easy to configure with YAML and connect to several services.
+- [convmodel](https://github.com/colorfulscoop/convmodel)
+- [convf](https://github.com/colorfulscoop/convf)
 
 ### 📚 Articles
 
@@ -15,9 +16,9 @@ I am a member of Colorful Scoop to develop wonderful chatbots. You can find it h
 
 ### 🔖 Links
 
-- [Blog (in Japanese)](https://noriyukipy.github.io/blog/)
 - [GitHub](https://github.com/noriyukipy)
 - [Twitter](https://twitter.com/noriyukipy)
+- [Blog (in Japanese)](https://noriyukipy.github.io/blog/)
 
 <!--
 **noriyukipy/noriyukipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
